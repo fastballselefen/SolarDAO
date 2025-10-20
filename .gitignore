@@ -1,0 +1,47 @@
+# Node & package managers
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+.yarnrc.yml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Build outputs
+.dist/
+dist/
+build/
+.out/
+out/
+.next/
+.vercel/
+.turbo/
+
+# Coverage & cache
+coverage/
+.cache/
+.vscode/
+.idea/
+
+# Hardhat & Solidity
+artifacts/
+cache/
+typechain-types/
+deployments/
+
+# Misc
+*.swp
+*.swo
