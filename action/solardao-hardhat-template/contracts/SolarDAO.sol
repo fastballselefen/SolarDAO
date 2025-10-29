@@ -142,4 +142,3 @@ contract SolarDAO is SepoliaConfig {
 
 
 
-// dev note: no-op
