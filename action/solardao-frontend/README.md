@@ -16,6 +16,3 @@ npm run dev
 
 
 
-
-Notes: add wallet UI.
-Polish: minor text.
