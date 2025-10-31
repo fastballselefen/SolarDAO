@@ -45,3 +45,5 @@ deployments/
 # Misc
 *.swp
 *.swo
+
+zama_template/fhevm-hardhat-template/
